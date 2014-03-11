@@ -48,43 +48,13 @@
 		public var Sets:Object;
 		
 		//main:
-		/*public var bootfix:Boolean = true;
-		public var weapon:int=1;
-		public var cannon:int=2;
-		public var helm:int = 1;
-		public var hair:int = 1;
-		public var eyes:int = 1;
-		public var body:int = 1;
-		public var tits:int = 1;
-		public var spads:int= 2;//наплечники 
-		public var armu:int = 2;//upper 
-		public var arml:int = 2;//lower
-		public var legs:int = 1;
-		public var feet:int = 2;
-		
-		public var tone:int = 1;
-		public var mess:int = 2;
 		
 		*/
 		
 		
 		var dirrection:int=1;
 		
-		//dirty:
-		/*var messy:int = 0;
-		var messyhead:int = 0;
-		var messymouth:int = 0;
-		var messyhelm:int = 0;
-		var messytits:int = 0;
-		var messyass:int = 0;
-		var messylegs:int = 0;
-		var messycalves:int = 0;
-		var messyarms:int = 0;
-		var messyback:int = 0;
-		var messytail:int = 0;
-		var messystomach:int = 0;
-		var messypelvis:int = 0;
-		*/
+		
 		///physic engine
 		public var circle:b2Body;
 		public var sensor:Sensor;
